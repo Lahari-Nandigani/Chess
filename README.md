@@ -15,5 +15,6 @@ Step 3:
 # python chess.py
 
 Step 4: 
-
+use this command to copy the chess game to your pc
+# git clone https://github.com/Lahari-Nandigani/Chess.git
 some files install so plese wait after instalation complete you and your friend able to play game chess 
